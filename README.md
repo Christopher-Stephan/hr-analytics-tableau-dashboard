@@ -38,7 +38,8 @@ This project includes two dashboards:
 ## Files
 
 - `HR_Dashboard.twbx` — Tableau packaged workbook
-- `images/` — dashboard screenshots
+- `hr-details.png` — dashboard details screenshot
+- `hr-overview.png` — dashboard overview screenshot
 
 ## Notes
 
